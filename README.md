@@ -1,1 +1,1 @@
-![]([https://github.com/Asilomare/CDK-Cognito-APIGateway/blob/main/images/apidiagram.png](https://github.com/Asilomare/Research-Project-Osyter-Image-Analysis/blob/main/Image_analysis_oyster%20(2).pdf?raw=true)
+![](https://github.com/Asilomare//Research-Project-Osyter-Image-Analysis/blob/main/Image_analysis_oyster.pdf?raw=true)
